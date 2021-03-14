@@ -1,5 +1,6 @@
 export interface IEBusterProps {
   appId?: string
+  parentSelector?: string
   mainText?: string
   linkText?: string
   linkUrl?: string

@@ -4,8 +4,10 @@
   "version": "0.1.0",
   "main": "dist/main.js",
   "module": "dist/module.js",
+  "types": "types/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "types"
   ],
   "license": "MIT",
   "homepage": "https://ie-buster.qranoko.jp",

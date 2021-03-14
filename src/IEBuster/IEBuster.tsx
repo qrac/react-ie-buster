@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import { IEBusterProps } from "./IEBuster.types"
+import { IEBusterProps } from "../../types"
 
 const IEBuster: React.FC<IEBusterProps> = ({
   appId = "ie-buster-app",

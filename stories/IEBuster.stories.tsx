@@ -1,5 +1,5 @@
 import React from "react"
-import IEBuster from "./IEBuster"
+import IEBuster from "../src/IEBuster/IEBuster"
 
 export default {
   title: "IE Buster",
